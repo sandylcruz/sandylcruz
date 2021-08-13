@@ -7,6 +7,8 @@
 <!-- ## 📈 Stats: -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandylcruz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
   
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sandylcruz&theme=vue)](https://git.io/streak-stats)
+  
 <!-- 
 [![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandylcruz&hide=stars,contribs&theme=vue)](https://github.com/sandylcruz/github-readme-stats) 
   
