@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">  
  
   # Hi there, I'm <a href="https://sandylcruz.github.io">Sandy </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" />
 
